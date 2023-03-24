@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DiNAMIC.Duo"]
+	path = DiNAMIC.Duo
+	url = https://github.com/cran/DiNAMIC.Duo
+	shallow = true
+	registered = true
+[submodule "MVisAGe"]
+	path = MVisAGe
+	url = https://github.com/cran/MVisAGe
+	shallow = true
+	registered = true
