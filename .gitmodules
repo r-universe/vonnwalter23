@@ -8,3 +8,6 @@
 [submodule "MVisAGe"]
 	path = MVisAGe
 	url = https://github.com/cran/MVisAGe
+[submodule "dinamic"]
+	path = dinamic
+	url = https://github.com/cran/dinamic
