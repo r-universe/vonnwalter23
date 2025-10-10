@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "DiNAMIC.Duo"]
 	path = DiNAMIC.Duo
-	url = https://github.com/cran/DiNAMIC.Duo
+	url = https://github.com/vonnwalter23/dinamic.duo
 [submodule "MVisAGe"]
 	path = MVisAGe
 	url = https://github.com/cran/MVisAGe
